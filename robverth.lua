@@ -27,7 +27,7 @@ local fireTouch = firetouchinterest or firetouchtransmitter
 local RBXGeneral = TextChatService.TextChannels.RBXGeneral
 
 local Script = {
-    Binded = {}, -- ty geo for idea :smartindividual:
+    Binded = {}, -- ty turd for idea :smartindividual:
     Connections = {},
     FeatureConnections = {
         Clip = {},
@@ -269,7 +269,7 @@ local Toggles = getgenv().Linoria.Toggles
 local ESPLibrary = loadstring(game:HttpGet("https://raw.githubusercontent.com/deividcomsono/MS-ESP/refs/heads/main/source.lua"))()
 
 local Window = Library:CreateWindow({
-	Title = "mspaint v2",
+	Title = "roberhubv1",
 	Center = true,
 	AutoShow = true,
 	Resizable = true,
